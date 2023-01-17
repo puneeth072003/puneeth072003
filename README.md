@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/119479391/212790098-befde240-7b52-4252-8d87-43e0495d0ad9.jpg)
 <h1 align="center">Hi 👋, I'm Puneeth</h1>
-<h3 align="center">Open source enthusiast</h3>
+<h3 align="center">Open-Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeth072003&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth072003" /> </p>
 
-- 🔭 I’m currently working on **Pill Reminder**
+- 🔭 I’m currently working on **PILL REMINDER**
 
 - 🌱 I’m currently learning **DSA**
 

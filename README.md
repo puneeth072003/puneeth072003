@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/119479391/212790098-befde240-7b52-4252-8d87-43e0495d0ad9.jpg)
+
 <h1 align="center">Hi 👋, I'm Puneeth</h1>
 <h3 align="center">Open-Source Enthusiast</h3>
 

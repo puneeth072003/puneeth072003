@@ -28,3 +28,5 @@ Though I just did a few commits, the real heroes are the maintainers!
 
 ![Puneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneeth072003&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 [![Puneeth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=puneeth072003&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth072003&theme=dark&size_weight=0.5&count_weight=0.5)

@@ -1,5 +1,5 @@
 # Howdy 🤠
-[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/Puneeth072003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
 
 Hi, I am Puneeth Y. I'm an **open-source enthusiast**, I'm always eager to learn and contribute to open-source projects. I spend my free time exploring different repositories, reading documentation, and experimenting with new tools and frameworks. My passion for open-source has motivated me to actively participate in various communities. To sum it up **"I LOVE OPEN-SOURCE"**
 

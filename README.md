@@ -1,5 +1,5 @@
 # Howdy 🤠
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) [![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/Puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  

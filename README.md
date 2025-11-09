@@ -1,5 +1,5 @@
 # Howdy 🤠
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) [![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/Puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) [![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)]![](https://komarev.com/ghpvc/?username=puneeth072003)
  
 [![An image of @puneeth072003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/puneeth072003)](https://holopin.io/@puneeth072003)
 

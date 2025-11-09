@@ -1,16 +1,8 @@
 # Howdy 🤠
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/puneeth072003) [![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/Puneeth072003) ![](https://komarev.com/ghpvc/?username=puneeth072003)
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
+ 
+[![An image of @puneeth072003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/puneeth072003)](https://holopin.io/@puneeth072003)
+
 Hi, I am Puneeth Y. I'm an **open-source enthusiast**, I'm always eager to learn and contribute to open-source projects. I spend my free time exploring different repositories, reading documentation, and experimenting with new tools and frameworks. My passion for open-source has motivated me to actively participate in various communities. To sum it up **"I LOVE OPEN-SOURCE"**
 
 ### Public projects I am happy to have contributed to

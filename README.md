@@ -3,7 +3,7 @@
  
 [![An image of @puneeth072003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/puneeth072003)](https://holopin.io/@puneeth072003)
 
-Hi, I am Puneeth Y. I'm an **open-source enthusiast**, I'm always eager to learn and contribute to open-source projects. I spend my free time exploring different repositories, reading documentation, and experimenting with new tools and frameworks. My passion for open-source has motivated me to actively participate in various communities. To sum it up **"I LOVE OPEN-SOURCE"**
+Hi, I am Puneeth. I'm an **open-source enthusiast**, I'm always eager to learn and contribute to open-source projects. I spend my free time exploring different repositories, reading documentation, and experimenting with new tools and frameworks. My passion for open-source has motivated me to actively participate in various communities. To sum it up **"I LOVE OPEN-SOURCE"**
 
 ### Public projects I am happy to have contributed to
 Though I just did a few commits, the real heroes are the maintainers!

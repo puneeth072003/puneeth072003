@@ -3,7 +3,7 @@
  
 [![An image of @puneeth072003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/puneeth072003)](https://holopin.io/@puneeth072003)
 
-Hi, I’m Puneeth, and I’m a bit obsessed with open‑source. Most of my free time disappears into reading in libraries, poking around repos, and breaking things (then _usually_ fixing them), all happily powered by a strict daily caffeine quota that keeps my brain compiling, the fingers typing, and the side‑quests into random  rabbit holes running at full speed.
+Hi, I’m Puneeth, and I’m a bit obsessed with open‑source. Most of my free time disappears into reading in libraries (places filled with books and quiet corners to get lost in), poking around repos, and breaking things (then _usually_ fixing them), all happily powered by a strict daily caffeine quota that keeps my brain compiling, the fingers typing, and the side‑quests into random  rabbit holes running at full speed.
 
 ### Public projects I am happy to have contributed to
 Though I just did a few commits, the real heroes are the maintainers!
